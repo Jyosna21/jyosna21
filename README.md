@@ -22,5 +22,5 @@
 <h3>
   Quote Of The Day
 </h3>
-<img  alt="Coding" width="400" src="https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg">
+<img  alt="Coding" width="400" src="https://ih1.redbubble.net/image.3227126918.1998/flat,750x,075,f-pad,750x1000,f8f8f8.u4.jpg">
 
